@@ -30,8 +30,8 @@ Backend & Full-Stack Software Engineer passionate about building scalable backen
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[AazDoh](https://github.com/barkat-bashir/AazDoh)** | High-accountability daily planning engine and CLI with telemetry & AI insights | TypeScript, Node.js, MCP |
-| **[naqashly](https://github.com/barkat-bashir/naqashly)** | Personal life management app to track goals, habits, and productivity | Java, Spring Boot |
+| **[AazDoh](https://github.com/barkat-bashir/AazDoh)** | High-accountability daily planning engine and CLI with telemetry & AI insights |Java,Spring Boot TypeScript, Node.js, MCP |
+| **[naqashly](https://github.com/barkat-bashir/naqashly)** | Personal life management app to track goals, habits,finances,notes| Java, Spring Boot,React  |
 | **[NexaPay](https://github.com/barkat-bashir/NexaPay)** | Scalable payments and transaction management service | Java, Spring Boot, SQL |
 
 ---
